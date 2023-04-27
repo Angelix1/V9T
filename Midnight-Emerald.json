@@ -11,13 +11,13 @@
   "semanticColors": {
     "TEXT_MUTED": ["##003E1E"],
     "INTERACTIVE_NORMAL": [ "#0a823c" ],
-    "BACKGROUND_PRIMARY": [ "transparent" ],
+    "BACKGROUND_PRIMARY": [ "#316b10" ],
     "BACKGROUND_SECONDARY": [ "#001E1E" ],
     "BACKGROUND_SECONDARY_ALT": [ "#003E1E" ],
-    "BACKGROUND_TERTIARY": [ "transparent" ],
+    "BACKGROUND_TERTIARY": [ "#316b10" ],
     "BACKGROUND_ACCENT": [ "#004E1E" ],
     "BACKGROUND_FLOATING": [ "#001E1E" ],
-    "BACKGROUND_MOBILE_PRIMARY": [ "transparent" ],
+    "BACKGROUND_MOBILE_PRIMARY": [ "#316b10" ],
     "BACKGROUND_MOBILE_SECONDARY": [ "#001E1E" ],
     "BACKGROUND_NESTED_FLOATING": [ "#001E1E" ],
     "BACKGROUND_MODIFIER_SELECTED": [ "#298565" ],
@@ -28,6 +28,8 @@
     "TEXT_LINK": [ "#ffed63" ],
     "TEXT_DANGER": [ "#ff770f" ],
     "CHANNEL_ICON": [ "#00a393" ],
-    "CHAT_BACKGROUND": [ "transparent" ]
+    "CHAT_BACKGROUND": [ "#497a2d" ]
   },
+  "rawColors": {},
+  "background": {},
 }
